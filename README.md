@@ -17,8 +17,11 @@
 ## 데이터
 - 건강보험공단 빅데이터 맞춤형 연구DB
 
-- Example of the spin-off analysis: EDA for testing the ratio of two poisson rates
+## 분석 결과 예시
+- 데이터 및 연구 프라이버시를 고려하여 질환명은 마스킹하여 제공합니다.
+  - (왼쪽) 이상반응 추적감시 연구 분석 결과
+  - (오른쪽) 스핀오프 분석 EDA 
 
 <p align="center">
-<img src = "./Plot_example/Example_spinoff.png">
+<img src = "./Figure for portfolio/merged_figure.png">
 </p>
